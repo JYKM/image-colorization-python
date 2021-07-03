@@ -1,0 +1,1 @@
+{"inputPath": "./input", "outputPath": "./output", "modelPath": "./model\\colorization_release_v2.caffemodel", "prototxtPath": "./model\\colorization_deploy_v2.prototxt", "clusterPath": "./model\\pts_in_hull.npy"}
