@@ -14,9 +14,11 @@ This Project is developed for academic and research purposes.
 
 ## How to run?
 1. Install the requirements and dependencies
-2. Run **./main.py**
+2. Run **main.py** file
 
 ## Requirements
+Python 3.9.5 or above, the dependencies and the following files
+
 Store the following 3 files in a folder and locate them in the program (settings.json)
 
 [Caffe Model Link](http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel)
