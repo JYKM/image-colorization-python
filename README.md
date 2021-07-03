@@ -13,11 +13,11 @@ This Project is developed for academic and research purposes.
 ```
 
 ## How to run?
-1. Install the requirements and dependencies
+1. Install the [requirements](https://github.com/JYKM/image-colorization-python#requirements) and [dependencies](https://github.com/JYKM/image-colorization-python#dependencies)
 2. Run **main.py** file
 
 ## Requirements
-Python 3.9.5 or above, the dependencies and the following files
+Python 3.1+ (Preferably Python 3.9.5 or above), the dependencies and the following files
 
 Store the following 3 files in a folder and locate them in the program (settings.json)
 
